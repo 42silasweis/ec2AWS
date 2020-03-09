@@ -5,7 +5,7 @@
    <link rel="shortcut icon" href="./.favicon.ico">
    <title>Directory Contents</title>
 
-   <link rel="stylesheet" href="./.style.css">
+   <link rel="stylesheet" href="/var/www/html/ec2AWS/./.style.css">
    <script src="./.sorttable.js"></script>
 </head>
 
