@@ -6,7 +6,7 @@
    <title>Directory Contents</title>
 
    <link rel="stylesheet" href="/var/www/html/ec2AWS/./.style.css">
-   <script src="./.sorttable.js"></script>
+   <script src="/var/www/html/ec2AWS/./.sorttable.js"></script>
 </head>
 
 <body>
